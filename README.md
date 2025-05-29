@@ -1,6 +1,6 @@
 # Movie Rating Prediction Model
 The Movie Rating Prediction Model is a machine learning project designed to predict movie ratings based on a variety of features extracted from movie metadata and user interactions. This project leverages historical data to forecast how audiences might rate movies they haven't seen yet, ultimately aiding in personalized movie recommendations and enhancing the user experience on streaming platforms.
-![movie prediction Screenshot](assets/fake.png)(assets/movie.png)
+![movie prediction Screenshot](assets/movie.png)
 ## Key Features:
 
 Data-Driven Insights: Utilizes large-scale datasets (e.g., MovieLens, IMDb) containing user ratings, movie genres, cast information, and other relevant metadata.
